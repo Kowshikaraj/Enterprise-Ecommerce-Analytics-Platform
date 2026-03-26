@@ -531,7 +531,7 @@ Enterprise-Ecommerce-Analytics-Platform/
 ├── sql/
 │   └── online_retail_analysis.sql
 │
-├── screenshots/
+├── images/
 │   ├── executive_dashboard.png
 │   ├── customer_analysis.png
 │   ├── product_analysis.png
