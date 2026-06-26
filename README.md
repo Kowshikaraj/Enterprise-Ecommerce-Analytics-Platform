@@ -291,7 +291,7 @@ The dashboards provide a consolidated view of business performance, enabling use
 * Compare revenue across countries
 * Analyze purchasing trends
 * Support business decision-making through interactive reporting
-# 📈 Dashboard Walkthrough
+# Dashboard Walkthrough
 
 The Power BI report is divided into four interactive dashboards, each designed to answer a different set of business questions. Together, these dashboards provide a comprehensive view of sales performance, customer behavior, product performance, and geographic trends.
 
