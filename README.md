@@ -327,7 +327,7 @@ The Executive Dashboard provides a high-level summary of overall business perfor
 * How has revenue changed over time?
 
 <p align="center">
-<img src="images/executive_dashboard.png" width="100%">
+<img src="images/Executive_Dashboard.png" width="100%">
 </p>
 
 ---
