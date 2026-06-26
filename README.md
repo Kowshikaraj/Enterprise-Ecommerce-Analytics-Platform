@@ -421,7 +421,7 @@ The Geographic Analysis dashboard compares sales performance across different co
 * How does revenue vary across countries over time?
 
 <p align="center">
-<img src="images/geographic_analysis.png" width="100%">
+<img src="images/Geographic_analysis.png" width="100%">
 </p>
 
 ---
